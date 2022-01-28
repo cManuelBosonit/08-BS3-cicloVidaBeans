@@ -15,7 +15,6 @@ public class Application {
 	}
 
 
-
 	@Bean
 	CommandLineRunner ejecutame(){
 		return p ->
